@@ -1,0 +1,17 @@
+<resources>
+
+    <string name="app_name">Week6</string>
+    <string name="satu">Member Plugin</string>
+    <string name="username">Username</string>
+    <string name="member_plugin">Member Plugin</string>
+    <string name="login">LOGIN</string>
+    <string name="todo">TODO</string>
+
+    <string-array name="squad_plugin">
+        <item>Squad Mobile</item>
+        <item>Squad Website</item>
+        <item>Squad Network</item>
+        <item>Squad UI/UX</item>
+    </string-array>
+
+</resources>
